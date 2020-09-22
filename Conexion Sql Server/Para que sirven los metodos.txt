@@ -1,0 +1,15 @@
+Metodos mas utilizados en esta cadena de conexion (con ellos practicamente puedes hacer todo):
+
+
+
+- selectdatatable: permite seleccionar todos los datos de una tabla realizando consultas simples (select * from tabla), inner joins (cualquiera), subconsultas y hasta vistas.
+
+
+
+- selectdataset: es muy parecido al selectdatatable pero este pide dos argumentos, la consulta a realizar y la tabla donde se encuentran esos datos (en cuyo caso recomiendo solo utilizar el metodo "selectdatatable" con ese metodo es mas que suficiente).
+
+- selectstring: permite seleccionar un campo en especifico por ejemplo "select columna from tabla".
+
+
+
+- executecommand: permite realizar operaciones a nuestras tablas ya sea insert, update, delete o procedimientos almacenados.

@@ -1,0 +1,88 @@
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.exe.config
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.exe
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.pdb
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Menu.resources
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Properties.Resources.resources
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.GenerateResource.Cache
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.exe
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pdb
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pREmpleado.resources
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csprojResolveAssemblyReference.cache
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRComputadoras.resources
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRConsolas.resources
+C:\Users\RaulE\Documents\Proyecto Gestion\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRVideojuegos.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.exe.config
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.exe
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.pdb
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Menu.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRComputadoras.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRConsolas.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pREmpleado.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Properties.Resources.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRVideojuegos.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.GenerateResource.Cache
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.exe
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pdb
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarEmpleado.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRCombos.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pHome.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Splash.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Login.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\Conexion1.dll
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\Conexion1.pdb
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csprojResolveAssemblyReference.cache
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarCombos.resources
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarConputadora.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.exe.config
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.exe
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\ControldeVideojuegos.pdb
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\Conexion1.dll
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\bin\Debug\Conexion1.pdb
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csprojResolveAssemblyReference.cache
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarCombos.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarConputadora.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarEmpleado.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Menu.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Login.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pHome.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRCombos.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRComputadoras.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRConsolas.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pREmpleado.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Properties.Resources.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRVideojuegos.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Splash.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.GenerateResource.Cache
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.exe
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pdb
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FCombos.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FComputadoras.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FConsolas.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FEmpleado.resources
+C:\Users\RaulE\Documents\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FVideojuegos.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csprojAssemblyReference.cache
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarCombos.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarConputadora.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.BuscarEmpleado.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FCombos.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FComputadoras.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FConsolas.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FEmpleado.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.FVentanas.FVideojuegos.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Menu.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Login.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pHome.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRCombos.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRComputadoras.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRConsolas.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pREmpleado.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Properties.Resources.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pRVideojuegos.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.Splash.resources
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.GenerateResource.cache
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.csproj.CoreCompileInputs.cache
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.exe
+J:\Nueva carpeta\Respaldo Nov2017\Nueva carpeta (3)\ControldeVideojuegos\ControldeVideojuegos\obj\Debug\ControldeVideojuegos.pdb

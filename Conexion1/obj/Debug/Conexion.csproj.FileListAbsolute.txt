@@ -1,0 +1,5 @@
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\Conexion1\bin\Debug\Conexion1.dll
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\Conexion1\bin\Debug\Conexion1.pdb
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\Conexion1\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\Conexion1\obj\Debug\Conexion1.dll
+C:\Users\RaulE\Documents\Lic. Ciencias Computacionales\4° Semestre\Administación de Base De Datos\Proyecto Control de videojuegos\ControldeVideojuegos\Conexion1\obj\Debug\Conexion1.pdb

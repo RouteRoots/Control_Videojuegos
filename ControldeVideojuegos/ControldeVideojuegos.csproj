@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{071A64DC-98E7-40FB-9BCE-69A42CEACD1E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ControldeVideojuegos</RootNamespace>
+    <AssemblyName>ControldeVideojuegos</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Conexion1">
+      <HintPath>..\Conexion1\bin\Debug\Conexion1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Busquedas\BuscarCombos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarCombos.Designer.cs">
+      <DependentUpon>BuscarCombos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarConputadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarConputadora.Designer.cs">
+      <DependentUpon>BuscarConputadora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarConsola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarConsola.Designer.cs">
+      <DependentUpon>BuscarConsola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarEmpleado.Designer.cs">
+      <DependentUpon>BuscarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busquedas\BuscarVideojuego.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busquedas\BuscarVideojuego.Designer.cs">
+      <DependentUpon>BuscarVideojuego.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Combos.cs" />
+    <Compile Include="Clases\Computadora.cs" />
+    <Compile Include="Clases\Consola.cs" />
+    <Compile Include="Clases\Empleado.cs" />
+    <Compile Include="FVentanas\FCombos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVentanas\FCombos.Designer.cs">
+      <DependentUpon>FCombos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVentanas\FComputadoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVentanas\FComputadoras.Designer.cs">
+      <DependentUpon>FComputadoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVentanas\FConsolas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVentanas\FConsolas.Designer.cs">
+      <DependentUpon>FConsolas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVentanas\FEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVentanas\FEmpleado.Designer.cs">
+      <DependentUpon>FEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVentanas\FVideojuegos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVentanas\FVideojuegos.Designer.cs">
+      <DependentUpon>FVideojuegos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\MCombo.cs" />
+    <Compile Include="Clases\MConputadora.cs" />
+    <Compile Include="Clases\MConsola.cs" />
+    <Compile Include="Clases\MEmpleado.cs" />
+    <Compile Include="Clases\MVideojuego.cs" />
+    <Compile Include="pHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pHome.Designer.cs">
+      <DependentUpon>pHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pRCombos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pRCombos.Designer.cs">
+      <DependentUpon>pRCombos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pREmpleado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pREmpleado.Designer.cs">
+      <DependentUpon>pREmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\PruebaConexion.cs" />
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pRComputadoras.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pRComputadoras.Designer.cs">
+      <DependentUpon>pRComputadoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pRConsolas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pRConsolas.Designer.cs">
+      <DependentUpon>pRConsolas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pRVideojuegos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pRVideojuegos.Designer.cs">
+      <DependentUpon>pRVideojuegos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sisCVidDataSet.cs">
+      <DependentUpon>sisCVidDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sisCVidDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sisCVidDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Videojuego.cs" />
+    <EmbeddedResource Include="Busquedas\BuscarCombos.resx">
+      <DependentUpon>BuscarCombos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busquedas\BuscarConputadora.resx">
+      <DependentUpon>BuscarConputadora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busquedas\BuscarEmpleado.resx">
+      <DependentUpon>BuscarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVentanas\FCombos.resx">
+      <DependentUpon>FCombos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVentanas\FComputadoras.resx">
+      <DependentUpon>FComputadoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVentanas\FConsolas.resx">
+      <DependentUpon>FConsolas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVentanas\FEmpleado.resx">
+      <DependentUpon>FEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVentanas\FVideojuegos.resx">
+      <DependentUpon>FVideojuegos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pHome.resx">
+      <DependentUpon>pHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pRCombos.resx">
+      <DependentUpon>pRCombos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pRComputadoras.resx">
+      <DependentUpon>pRComputadoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pRConsolas.resx">
+      <DependentUpon>pRConsolas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pREmpleado.resx">
+      <DependentUpon>pREmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="pRVideojuegos.resx">
+      <DependentUpon>pRVideojuegos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sisCVidDataSet.xsc">
+      <DependentUpon>sisCVidDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sisCVidDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sisCVidDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sisCVidDataSet.xss">
+      <DependentUpon>sisCVidDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,29 @@
+Pasos para poder agregar y utilizar la cadena de conexion:
+
+1.- Primero hay que agregar el archivo "App.config", para ello vamos a ir a nuestro "explorador de objetos" que se encuentra en la parte derecha de nuestro Visual Studio, y dando clic derecho en su proyecto y clic en "agregar nuevo elemento", buscan el que se llama "Archivo de configuracion de aplicaciones" y lo agregan y ya tendran su App.config en su proyecto.
+
+1.- Coloque el archivo ".dll" en este caso llamado "ConexionBD" en una ubicacion donde pueda localizarlo rapidamente.
+
+2.- En su proyecto de conexion con base de datos, vaya al "explorador de soluciones", de clic derecho sobre "referencias o references" en caso que tenga su Visual Studio en ingles. De clic derecho en agregar referencia. 
+
+3.- En la ventana que aparece vayan a "examinar" y ahi van a buscar referencia o archivo ".dll" llamado "ConexionBD" (es por eso que en el paso uno recomende colocarlo en una ubicacion facil de localizar).
+
+4.- Una vez agregada la referencia, vamos a dar doble clic en nuestro archivo "App.config" que se encuentra debajo de "referencias o references" y vamos a poner el siguiente codigo (pondre solo la autenticacion de windows ya que en la autenticacion de sql server lo unico que cambia es ";Integrated Security=True" por su nombre de usuario y contraseña):
+
+
+
+* Autenticacion de Windows:
+
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+  </configSections>
+  <connectionStrings>
+    <add name = "connection"
+    connectionString ="Data Source =NombreDelServidor;Initial Catalog=NombreDeLaBaseDeDatos;Integrated Security=True"
+    providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+</configuration>
